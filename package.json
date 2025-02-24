@@ -1,0 +1,27 @@
+{
+  "name": "probable-garbanzo",
+  "version": "1.0.0",
+  "description": "Istathuku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreyasiv/probable-garbanzo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreyasiv/probable-garbanzo/issues"
+  },
+  "homepage": "https://github.com/Sreyasiv/probable-garbanzo#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {}
+}
